@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-React Project
+React Project. Built with React Query and Supabase.
